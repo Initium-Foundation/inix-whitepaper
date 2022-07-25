@@ -51,6 +51,6 @@
 
 ## 🖇 Appendixes
 
-* [Terminology](appendixes/terminology.md)
-* [Legal Terms](appendixes/legal-terms.md)
 * [Links and References](appendixes/links-and-references.md)
+* [Legal Terms](appendixes/legal-terms.md)
+* [Terminology](appendixes/terminology.md)
