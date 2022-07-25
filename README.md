@@ -1,6 +1,6 @@
 # Abstract
 
-The Initium Foundation issues this whitepaper as a non-profit foundation for developing, maintaining, and promoting the Initium network.
+The Initium Foundation releases this whitepaper as a non-profit foundation for developing, maintaining, and promoting the Initium network.
 
 This paper discusses the key implementation details, particularly the token economics (tokenomics) of the native token of the Initium network, called $INIX. The native token secures the network, pays for fees, and provides the basic unit of account between the multiple blockchains deployed on the larger Initium network. For additional details on Initium, which serves as a versatile and universal platform, allowing anyone to launch new blockchains with their own rules, virtual machines, and validator sets, we guide the reader to either the accompanying architectural paper or the Initium documentation.
 
