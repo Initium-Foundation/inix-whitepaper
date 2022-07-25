@@ -1,3 +1,9 @@
+---
+description: >-
+  Initium Native Token ($INIX) Whitepaper–– Version 1.0 –– © Initium Foundation,
+  July 2022.
+---
+
 # Abstract
 
 The Initium Foundation releases this whitepaper as a non-profit foundation for developing, maintaining, and promoting the Initium network.
