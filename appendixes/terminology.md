@@ -90,10 +90,6 @@ A native craft in the Initium that manage the Initium protocol. Every rule in th
 
 Covenant is the consenses of Initium. It is a stack of proofs that each of them proves that some data existed before the proof was created and that a precise duration of time passed before the previous proof. It's a compound consensus using proof-of-uptime and proof-of-correctness as the Proof of Synchronization (PoSync) along with the Proof of Time (POT).  Like a [VDF](terminology.md#verifiable-delay-function-vdf), a proof can be verified in less time than it took to produce.
 
-### Covenant DAO
-
-The main DAO in the Initium ecosystem governs the initium protocol's Constitution.&#x20;
-
 ### Craft
 
 A craft is an Initium compatible program. The code that interprets [instructions](terminology.md#instruction).
@@ -135,7 +131,7 @@ The observed [Inflation Rate](terminology.md#inflation-rate) on the Initium netw
 
 * [Block Rewards](terminology.md#block-rewards)
 * Additional factors such as loss of private keys and slashing events should also be considered in a holistic analysis of the _Effective Inflation Rate_. For example, it’s estimated that 10-20% of all BTC have been lost and are unrecoverable and that networks may experience similar yearly losses at the rate of 1-2%.&#x20;
-* Covenant DAO would decide on the burning of some portion of the Initium Foundation reserves via proposals. In case of the approval of such proposals, the burning of some portion of the Initium Foundation's reserves will take place.&#x20;
+* Imperium DAO would decide on the burning of some portion of the Initium Foundation reserves via proposals. In case of the approval of such proposals, the burning of some portion of the Initium Foundation's reserves will take place.&#x20;
 
 ### _Epoch_
 
@@ -210,6 +206,10 @@ HODL is a term commonly used by cryptocurrency investors that refuse to sell the
 One who HODLs.
 
 ## I
+
+### _Imperium_ DAO
+
+The main DAO in the Initium ecosystem governs the initium protocol's Constitution.&#x20;
 
 ### _Inflation Rate_&#x20;
 
